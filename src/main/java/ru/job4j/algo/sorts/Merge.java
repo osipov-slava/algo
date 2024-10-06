@@ -2,7 +2,9 @@ package ru.job4j.algo.sorts;
 
 import java.util.Arrays;
 
+// Сортировка слиянием - рекурсия
 public class Merge {
+
 
     public static int[] mergesort(int[] array) {
         int[] result = array;
